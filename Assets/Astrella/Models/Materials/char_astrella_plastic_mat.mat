@@ -43,12 +43,24 @@ Material:
         second: .39227891
       data:
         first:
+          name: _BumpScale
+        second: 1
+      data:
+        first:
           name: _MetallicScale
-        second: 1.20000005
+        second: 1
       data:
         first:
           name: _SmoothnessScale
-        second: 1.20000005
+        second: 1
+      data:
+        first:
+          name: _MetallicBias
+        second: 0
+      data:
+        first:
+          name: _SmoothnessBias
+        second: .197999999
     m_Colors:
       data:
         first:
