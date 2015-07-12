@@ -1,7 +1,9 @@
 AstrellaPBR
 -----------
 
-Custom PBR surface shader for Astrella from [Robot Lab][RobotLab]
+This is a custom PBR surface shader for the Astrella model from
+[the Robot Lab sample assets][RobotLab] which is provided from
+Unity Technologies.
 
 ![Preview][Preview]
 
